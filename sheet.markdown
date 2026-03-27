@@ -1,14 +1,22 @@
 note:
 สีพื้นหลัง bg-neutral-200
 หัวข้อใหญ่ text-4xl font-bold text-neutral-600
+หัวข้อย่อยด้านขวา text-xl text-neutral-700 font-semibold
 เส้นขอบ border-b border-gray-200
-ตัวอักษรp text-neutral-500
+ตัวอักษรp text-neutral-600
 
 ---
 
 update news: (?)
 เบราว์เซอร์สมัยใหม่ (Chrome, Safari, Edge) มีนโยบายความเป็นส่วนตัวที่ "ห้ามวิดีโอที่มีเสียงเล่นอัตโนมัติ" เพื่อไม่ให้ผู้ใช้งานตกใจ
 :: ต้องใส่ Attribute muted (ปิดเสียง) และ loop (เล่นวน) เข้าไปคู่กับ autoplay
+:: ใส่ controls เพื่อควบคุมวีดีโอได้
+
+---
+
+new tips:
+
+- ทำข้อความเปลี่ยนตอน Responsive ใช้ span class= hidden | md:hidden | md:inline ได้
 
 ---
 
