@@ -4,6 +4,14 @@ note:
 เส้นขอบ border-b border-gray-200
 ตัวอักษรp text-neutral-500
 
+---
+
+update news: (?)
+เบราว์เซอร์สมัยใหม่ (Chrome, Safari, Edge) มีนโยบายความเป็นส่วนตัวที่ "ห้ามวิดีโอที่มีเสียงเล่นอัตโนมัติ" เพื่อไม่ให้ผู้ใช้งานตกใจ
+:: ต้องใส่ Attribute muted (ปิดเสียง) และ loop (เล่นวน) เข้าไปคู่กับ autoplay
+
+---
+
 ## Tailwind
 
 ---
