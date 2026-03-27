@@ -1,3 +1,7 @@
+note:
+สีพื้นหลัง bg-gray-200
+หัวข้อใหญ่ text-5xl font-bold text-gray-600
+
 ## Tailwind
 
 ---
