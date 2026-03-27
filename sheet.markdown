@@ -1,7 +1,8 @@
 note:
 สีพื้นหลัง bg-neutral-200
 หัวข้อใหญ่ text-4xl font-bold text-neutral-600
-หัวข้อย่อยด้านขวา text-xl text-neutral-700 font-semibold
+หัวข้อย่อย text-3xl font-bold text-neutral-600
+หัวข้อเล็กด้านขวา text-xl text-neutral-700 font-semibold
 เส้นขอบ border-b border-gray-200
 ตัวอักษรp text-neutral-600
 
