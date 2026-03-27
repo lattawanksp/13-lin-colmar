@@ -1,6 +1,8 @@
 note:
-สีพื้นหลัง bg-gray-200
-หัวข้อใหญ่ text-5xl font-bold text-gray-600
+สีพื้นหลัง bg-neutral-200
+หัวข้อใหญ่ text-4xl font-bold text-neutral-600
+เส้นขอบ border-b border-gray-200
+ตัวอักษรp text-neutral-500
 
 ## Tailwind
 
@@ -41,3 +43,11 @@ note:
 
 - text-xl / text-base / text-gray-500
 - font-bold / font-normal
+
+---
+
+**grid** : สร้างตาราง
+
+- grid ประกาศใช้
+- grid-cols-1 เรียกใช้ 1 คอลัมม์
+- md:grid-cols-3 desktop เรียกใช้ 3 คอลัมม์
