@@ -18,6 +18,9 @@ update news: (?)
 new tips:
 
 - ทำข้อความเปลี่ยนตอน Responsive ใช้ span class= hidden | md:hidden | md:inline ได้
+- ถ้าอยากให้รูปคงที่: ใช้ shrink-0
+- ถ้าอยากให้รูปไม่เบี้ยว: ใช้ object-cover (กรณีที่เรากำหนดความกว้าง/สูงตายตัว)
+- ถ้าอยากให้ข้อความขยายเต็มที่: ใช้ flex-1
 
 ---
 
